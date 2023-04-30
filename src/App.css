@@ -1,0 +1,48 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  .kcLWfT.ezr-table {
+    box-shadow: #777 0px 1px 2px;
+    border-radius: 7px;
+    width: 1250px;
+    min-width: 300px;
+    background-color: #c43434;
+  }
+  .ezr-table {
+    background-color: #c43434;
+  }
+  
+  .ezr-header {
+    background-color: #1f2024;
+    color: white;
+    align-items: center;
+    display: flex;
+  }
+ .input {
+  
+    align-items: center;
+  }
+  .ezr-row {
+    background-color: #030f40;
+  }
+  .ezr-header-left{
+    display: flex;
+  }
+  .ezr-row:hover {
+    background-color: #d4d4d4;
+  }
+  
+  .ezr-title--text{
+    text-align: center;
+  }
+  .ezr-search{
+    align-items: center;
+    display: flex;
+    margin: 0 auto;
+  }
+ 
+.input{
+    display: flex;
+}
+  
